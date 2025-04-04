@@ -1,0 +1,26 @@
+# Виртуальное окружение
+venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.pyd
+*.pyo
+
+# Файлы локальных настроек
+.env
+
+# Логи и временные файлы
+logs/
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.swp
+.DS_Store
+
+# Папка с данными
+data/
